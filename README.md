@@ -31,5 +31,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/saddamhussain-md-681b9824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokrithikaiyer4" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gokrithikaiyer4" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krithikaiyeer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kingofcool.8055/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krithikaiyeer" height="30" width="40" /></a>
 </p>
