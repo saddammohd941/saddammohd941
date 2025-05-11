@@ -1,5 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm <b>MD Saddam Hussain</b>, a DevOps Engineer from <img src="https://www.pinclipart.com/picdir/big/47-476312_india-transparent-clipart-indian-flag-logo-png.png" width="20"/> India. </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+Saddam+Mohammad's+GitHub+Profile!;Empowering+Cloud%2C+DevOps%2C+Kubernetes+Learners!;Let's+Simplify+Tech+Together+🚀" alt="Typing SVG" />
+</p>
+
+<p> </br> <b>MD Saddam Hussain</b> <b>DevOps Engineer</b> <b>from</b> <img src="https://www.pinclipart.com/picdir/big/47-476312_india-transparent-clipart-indian-flag-logo-png.png" width="20"/> <b>India.</b> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddammohd941&label=Profile%20views&color=0e75b6&style=flat" alt="saddammohd941" /> </p>
 <h3>Things I can familiar with</h3>
 
@@ -34,7 +39,15 @@
 </p>
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
-- 💬 Ask me about **AWS Docker Jenkins Ansible Linux Bash**
+- 🛠️ I specialize in **AWS, Azure, GCP, Kubernetes, Docker, Terraform** and more
+- ⚡ Always learning, always building!
+
+---
+
+## ⚡ Tech Stack
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,3 +55,10 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gokrithikaiyer4" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kingofcool.8055/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krithikaiyeer" height="30" width="40" /></a>
 </p>
+
+---
+
+## ✨ Quote I Live By
+> "**Simplify everything you build, empower everyone you teach.**"
+
+---
